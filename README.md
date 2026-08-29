@@ -252,10 +252,19 @@ If you want to share Frontline Hub, please share the original repository or offi
 
 ---
 
-# 🌑 Frontline Hub
+🌑 Frontline Hub
 
-Build Better. Think Smarter. Keep Evolving.
+«𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙇𝙤𝙜𝙞𝙘 • 𝘾𝙡𝙚𝙖𝙣 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 • 𝙎𝙢𝙖𝙧𝙩 𝙋𝙚𝙧𝙛𝙤𝙧𝙢𝙖𝙣𝙘𝙚»
 
-One Hub. Multiple Games. Independent Development.
+Frontline Hub — an independently developed script powered by 𝙖𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙤𝙜𝙞𝙘.
 
-© Frontline Hub — All Rights Reservedw
+«🔐 𝙊𝙬𝙣𝙚𝙧𝙨𝙝𝙞𝙥
+
+Frontline Hub and all associated scripts are exclusively owned by "𝙀𝙭𝙭𝙮𝙣𝙯".
+
+© 𝙀𝙭𝙭𝙮𝙣𝙯 — All Rights Reserved.»
+---
+# ?
+«𝘾𝙧𝙚𝙖𝙩𝙚𝙙: 29/08/2026
+𝙇𝙖𝙨𝙩 𝙈𝙤𝙙𝙞𝙛𝙞𝙚𝙙: Never
+𝙎𝙞𝙜𝙣𝙚𝙙: 𝙀𝙭𝙭𝙮𝙣𝙯»
