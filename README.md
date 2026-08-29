@@ -1,4 +1,4 @@
-w# 🌑 Frontline Hub
+# 🌑 Frontline Hub
 
 # «Advanced • Clean • Reliable»
 
