@@ -16,7 +16,7 @@ Our systems are designed to handle different situations efficiently while mainta
 
 «Smarter logic. Better systems. Greater control.»
 
-🛡️ Stability & Reliability
+# 🛡️ Stability & Reliability
 
 Stability is one of the core priorities of Frontline Hub.
 
@@ -24,7 +24,7 @@ Systems are continuously tested, refined, and improved to maintain consistent pe
 
 We aim to minimize unnecessary processes while improving overall system behavior.
 
-🧩 Multiple Script Types
+# 🧩 Multiple Script Types
 
 Frontline Hub supports multiple types of scripts and systems, ranging from:
 
@@ -35,7 +35,7 @@ Frontline Hub supports multiple types of scripts and systems, ranging from:
 
 Each project may have its own structure, features, and configuration.
 
-📦 Clean & Organized
+# 📦 Clean & Organized
 
 We believe a good system should be powerful without being unnecessarily complicated.
 
@@ -48,7 +48,7 @@ Frontline Hub focuses on:
 - Easy configuration
 - Practical design
 
-🎨 UI & Deep Customization
+# 🎨 UI & Deep Customization
 
 Frontline Hub places a strong focus on UI quality and deep customization.
 
@@ -64,7 +64,7 @@ Users can customize various aspects of the system according to their preferences
 
 «Your system. Your configuration. Your experience.»
 
-🚀 Continuous Development
+# 🚀 Continuous Development
 
 Frontline Hub is constantly evolving.
 
@@ -81,13 +81,13 @@ We continuously work on:
 
 ---
 
-🧩 Scripts
+# 🧩 Scripts
 
 Frontline Hub Scripts is a multi-game script collection designed to support a growing number of games and systems.
 
 Our goal is to provide reliable, customizable, and easy-to-use systems across multiple supported games.
 
-🎮 Multi-Game Support
+# 🎮 Multi-Game Support
 
 Frontline Hub supports multiple games, including:
 
@@ -100,7 +100,7 @@ The supported game list will continue to expand as development progresses.
 
 «More games. More systems. More possibilities.»
 
-⚙️ Custom Performance
+# ⚙️ Custom Performance
 
 Frontline Hub provides customizable performance options where applicable.
 
@@ -110,7 +110,7 @@ Our optimization focuses on maintaining a balance between:
 
 Performance • Stability • Features • Usability
 
-🎛️ Easy Customization
+# 🎛️ Easy Customization
 
 Customization should be powerful without being complicated.
 
@@ -124,7 +124,7 @@ Frontline Hub provides an intuitive system that allows users to:
 
 Everything is designed to keep interaction simple, fast, and easy to understand.
 
-🧬 Independent Development
+# 🧬 Independent Development
 
 Frontline Hub focuses on independently developed systems and code.
 
@@ -138,7 +138,7 @@ Our systems are built around our own:
 
 This allows the project to remain flexible and continuously evolve.
 
-🔧 Fast Bug Fixes
+# 🔧 Fast Bug Fixes
 
 Bugs are an unavoidable part of software development.
 
@@ -153,7 +153,7 @@ Updates may include:
 - System adjustments
 - Feature improvements
 
-🔄 Rapid Updates
+# 🔄 Rapid Updates
 
 Frontline Hub receives continuous updates and improvements.
 
@@ -167,7 +167,7 @@ New releases may include:
 - 🔧 Bug fixes
 - 🔄 Compatibility updates
 
-📈 Performance Optimization
+# 📈 Performance Optimization
 
 Performance optimization is an ongoing process.
 
@@ -179,7 +179,7 @@ Our objective is simple:
 
 ---
 
-🎮 Supported Games
+# 🎮 Supported Games
 
 Frontline Hub is designed as a multi-game platform, rather than a single-game project.
 
@@ -193,7 +193,7 @@ The supported game list may change as new systems are released.
 
 ---
 
-💻 Development Philosophy
+# 💻 Development Philosophy
 
 🧠 Logic First
 
@@ -217,7 +217,7 @@ Every update is an opportunity to make the project better, faster, and more reli
 
 ---
 
-📣 Community & Updates
+# 📣 Community & Updates
 
 Frontline Hub is continuously evolving, and the community is an important part of that process.
 
@@ -230,15 +230,15 @@ Join our official Discord for:
 - 💬 Community
 - 🛠️ Support
 
-🔗 Discord
+# 🔗 Discord
 
-https://discord.gg/JZTNBDF4r
+# https://discord.gg/JZTNBDF4r
 
 «Stay connected. Stay updated.»
 
 ---
 
-🔐 Repository & Ownership
+# 🔐 Repository & Ownership
 
 This repository is maintained as part of the Frontline Hub project.
 
@@ -252,10 +252,10 @@ If you want to share Frontline Hub, please share the original repository or offi
 
 ---
 
-🌑 Frontline Hub
+# 🌑 Frontline Hub
 
 Build Better. Think Smarter. Keep Evolving.
 
 One Hub. Multiple Games. Independent Development.
 
-© Frontline Hub — All Rights Reserved.a
+© Frontline Hub — All Rights Reservedw
