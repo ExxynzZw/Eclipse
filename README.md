@@ -1,14 +1,14 @@
 # 🌑 Frontline Hub
 
-«Advanced • Clean • Reliable»
+# «Advanced • Clean • Reliable»
 
 Frontline Hub is a continuously developing script platform focused on advanced logic, flexible customization, stable performance, and a clean user experience.
 
 ---
 
-⚡ Introduction
+# ⚡ Introduction
 
-🧠 Advanced Logic
+# 🧠 Advanced Logic
 
 Frontline Hub focuses on building systems with advanced logic and intelligent processing, going beyond standard or default implementations.
 
